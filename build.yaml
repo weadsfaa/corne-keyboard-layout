@@ -23,7 +23,7 @@ include:
     shield: corne_peripheral_left
   - board: nrfmicro_13
     shield: corne_peripheral_right
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: settings_reset
   - board: seeeduino_xiao_ble
     shield: settings_reset
